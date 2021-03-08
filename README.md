@@ -6,4 +6,6 @@ I purposefully didn't map the question to a company. That's not the point of thi
 
 Security is difficult to get your arms around, much less your brain. I sorted the questions into logical topic groups, though. I'm also answering the questions periodically at https://medium.com/@theporkskewer.
 
+There's also a blog post about how these questions arose from imposter syndrome: https://theporkskewer.medium.com/beginners-mind-vs-imposter-syndrome-996c6a2d2ffa
+
 And please, send me changes/additions/etc.
