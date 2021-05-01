@@ -1,27 +1,25 @@
 # Encryption and Authentication
    
    * What is a three-way handshake?
-        * How do cookies work?
-        * How do sessions work?
-        * Explain how OAuth works.
-        * What is a public key infrastructure flow and how would I diagram it?
-        * Describe the difference between synchronous and asynchronous encryption.
-        * Describe SSL handshake.
-        * How does HMAC work?
-        * Why HMAC is designed in that way?
-        * What is the difference between authentication vs authorization name spaces?
-        * What’s the difference between Diffie-Hellman and RSA?
-        * How does Kerberos work?
-        * If you're going to compress and encrypt a file, which do you do first and why?
-        * How do I authenticate you and know you sent the message?
-        * Should you encrypt all data at rest?
+   * How do cookies work?
+   * How do sessions work?
+   * Explain how OAuth works.
+   * What is a public key infrastructure flow and how would I diagram it?
+   * Describe the difference between synchronous and asynchronous encryption.
+   * Describe SSL handshake.
+   * How does HMAC work?
+   * Why HMAC is designed in that way?
+   * What is the difference between authentication vs authorization name spaces?
+   * What’s the difference between Diffie-Hellman and RSA?
+   * How does Kerberos work?
+   * If you're going to compress and encrypt a file, which do you do first and why?
+   * How do I authenticate you and know you sent the message?
+   * Should you encrypt all data at rest?
 
 # Network Level
 
    * What are common ports involving security, what are the risks and mitigations?
-         * Which one for DNS?
-             * AH
-             * ESP
+   * Which one for DNS?
              * Describe HTTPs and how it is used.
              * What is the difference between HTTPS and SSL?
              * How does threat modeling work?
