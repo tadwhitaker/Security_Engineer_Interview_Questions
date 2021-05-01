@@ -17,66 +17,64 @@
    * Should you encrypt all data at rest?
 
 # Network Level
-
    * What are common ports involving security, what are the risks and mitigations?
    * Which one for DNS?
-             * Describe HTTPs and how it is used.
-             * What is the difference between HTTPS and SSL?
-             * How does threat modeling work?
-             * What is a subnet and how is it useful in security?
-             * What is subnet mask?
-             * Explain what traceroute is.
-             * Draw a network, then expect them to raise an issue and have to figure out where it happened.
-             * Write out a Cisco ASA firewall configuration on the white board to allow three networks unfiltered access, 12 networks limited access to different resources on different networks, and 8 networks to be blocked altogether.
-             * Explain TCP/IP concepts.
-             * What is OSI model?
-             * How does a router differ from a switch?
-             * Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.
-             * How does a packet travel between two hosts connected in same network?
-             * Explain the difference between TCP and UDP. 
-             * Which is more secure? 
-             * Why?
-             * What is the TCP three way handshake?
-             * What is the difference between IPSEC Phase 1 and Phase 2?
-             * What are biggest AWS security vulnerabilities?
-             * How do web certificates for HTTPS work?
-             * What is the purpose of TLS?
-             * Is ARP UDP or TCP?
-             * Explain what information is added to a packet at each stop of the 7 layer OSI model.
-             * Walk through a whiteboard scenario for your environment of choice (Win/Linux) in which compromising the network is the goal without use of social engineering techniques (phishing for credential harvesting, etc).
-             * Explain how you would build a web site that could secure communications between a client and a server and allow an authorized user to read the communications securely.
-             * How does an active directory work?
-             * Do you know how Single Sign-On works?
-             * What is a firewall?
-             * How does it work?
-             * How does it work in cloud computing?
-             * Difference between IPS and IDS?
-             * How do you build a tool to protect the entire Apple infra?
-             * How do you harden a system?
-             * How to you elevate permissions?
+   * Describe HTTPs and how it is used.
+   * What is the difference between HTTPS and SSL?
+   * How does threat modeling work?
+   * What is a subnet and how is it useful in security?
+   * What is subnet mask?
+   * Explain what traceroute is.
+   * Draw a network, then expect them to raise an issue and have to figure out where it happened.
+   * Write out a Cisco ASA firewall configuration on the white board to allow three networks unfiltered access, 12 networks limited access to different resources on different networks, and 8 networks to be blocked altogether.
+   * Explain TCP/IP concepts.
+   * What is OSI model?
+   * How does a router differ from a switch?
+   * Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.
+   * How does a packet travel between two hosts connected in same network?
+   * Explain the difference between TCP and UDP. 
+   * Which is more secure and why?
+   * What is the TCP three way handshake?
+   * What is the difference between IPSEC Phase 1 and Phase 2?
+   * What are biggest AWS security vulnerabilities?
+   * How do web certificates for HTTPS work?
+   * What is the purpose of TLS?
+   * Is ARP UDP or TCP?
+   * Explain what information is added to a packet at each stop of the 7 layer OSI model.
+   * Walk through a whiteboard scenario for your environment of choice (Win/Linux) in which compromising the network is the goal without use of social engineering techniques (phishing for credential harvesting, etc).
+   * Explain how you would build a web site that could secure communications between a client and a server and allow an authorized user to read the communications securely.
+   * How does an active directory work?
+   * Do you know how Single Sign-On works?
+   * What is a firewall?
+   * How does it work?
+   * How does it work in cloud computing?
+   * Difference between IPS and IDS?
+   * How do you build a tool to protect the entire Apple infra?
+   * How do you harden a system?
+   * How to you elevate permissions?
 
 # OWASP Top 10
 
-    * Differentiate XSS from CSRF.
-    * What do you do if a user brings you a pc that is acting 'weird'? You suspect malware.
-    * What is the difference between tcp dump and FWmonitor
-    * Do you know what XXE is?
-    * Explain man-in-the-middle attacks
+   * Differentiate XSS from CSRF.
+   * What do you do if a user brings you a pc that is acting 'weird'? You suspect malware.
+   * What is the difference between tcp dump and FWmonitor
+   * Do you know what XXE is?
+   * Explain man-in-the-middle attacks
 
 # Databases
 
-    * How would you secure a Mongo database?
-    * Postgres?
-    * Our DB was stolen/exfiltrated. It was secured with one round of sha256 with a static salt. 
+   * How would you secure a Mongo database?
+   * Postgres?
+   * Our DB was stolen/exfiltrated. It was secured with one round of sha256 with a static salt. 
         * What do we do now?
         * Are we at risk?
         * What do we change?
-    * What are the 6 aggregate functions of SQL?
+   * What are the 6 aggregate functions of SQL?
 
 # Tools and Games
 
    * Have I played CTF?
-   * would you decrypt a steganography image? 
+   * Would you decrypt a steganography image? 
          * You're given an ip-based phone and asked me to decrypt the message in the phone.
              * What CND tools do you knowledge or experience with?
              * What is the difference between nmap -ss and nmap -st?
@@ -98,9 +96,10 @@
         * Etc.
 
 # Compliance
-    * Can you explain SOC 2?
+    
+   * Can you explain SOC 2?
       * What are the five trust criteria?
-    * How is ISO27001 different?
-    * Can you list examples of controls these frameworks require?
-    * What is the difference between Governance, Risk and Compliance?  
-    * What does Zero Trust mean?
+   * How is ISO27001 different?
+   * Can you list examples of controls these frameworks require?
+   * What is the difference between Governance, Risk and Compliance?  
+   * What does Zero Trust mean?
