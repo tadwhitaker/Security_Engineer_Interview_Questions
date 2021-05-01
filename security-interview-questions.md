@@ -1,5 +1,6 @@
 # Encryption and Authentication
-    * What is a three-way handshake?
+   
+   * What is a three-way handshake?
         * How do cookies work?
         * How do sessions work?
         * Explain how OAuth works.
