@@ -15,7 +15,7 @@
         * How do I authenticate you and know you sent the message?
         * Should you encrypt all data at rest?
 
-Network Level
+# Network Level
 
    * What are common ports involving security, what are the risks and mitigations?
          * Which one for DNS?
@@ -56,14 +56,16 @@ Network Level
              * How do you harden a system?
              * How to you elevate permissions?
 
-OWASP Top 10
+# OWASP Top 10
+
     * Differentiate XSS from CSRF.
     * What do you do if a user brings you a pc that is acting 'weird'? You suspect malware.
     * What is the difference between tcp dump and FWmonitor
     * Do you know what XXE is?
     * Explain man-in-the-middle attacks
 
-Databases
+# Databases
+
     * How would you secure a Mongo database?
     * Postgres?
     * Our DB was stolen/exfiltrated. It was secured with one round of sha256 with a static salt. 
@@ -72,7 +74,7 @@ Databases
         * What do we change?
     * What are the 6 aggregate functions of SQL?
 
-Tools and Games
+# Tools and Games
 
    * Have I played CTF?
    * would you decrypt a steganography image? 
@@ -84,7 +86,7 @@ Tools and Games
              * If left alone in office with access to a computer, how would you exploit it? 
              * How do you fingerprint an iPhone like Uber did so you can monitor it even after wiping it?
 
-Programming
+# Programming
 
    * Code review a project and look for the vulnerability.
    * How would you conduct a security code review?
@@ -96,7 +98,7 @@ Programming
         * AWS?
         * Etc.
 
-Compliance
+# Compliance
     * Can you explain SOC 2?
       * What are the five trust criteria?
     * How is ISO27001 different?
