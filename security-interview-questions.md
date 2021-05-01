@@ -15,8 +15,9 @@
    * If you're going to compress and encrypt a file, which do you do first and why?
    * How do I authenticate you and know you sent the message?
    * Should you encrypt all data at rest?
+   * What is Private Forward Secrecy?
 
-# Network Level
+# Network Level and Logging
    * What are common ports involving security, what are the risks and mitigations?
    * Which one for DNS?
    * Describe HTTPs and how it is used.
@@ -52,14 +53,27 @@
    * How do you build a tool to protect the entire Apple infra?
    * How do you harden a system?
    * How to you elevate permissions?
+   * Describe the hardening measures you've put on your home network.
+   * What is traceroute? Explain it in details.
+   * How does HTTPS work?
+   * What would do if you discovered an infected host?
+   * What is SYN/ACK and how does it work?
+   * You got the memory dump of a potentially compromised system, how are you going to approach its analysis?
+   * How would you detect a DDOS attack? 
+   * How does the kernel know which function to call for the user? 
+   * How would you go about reverse-engineering a custom protocol packet?
 
-# OWASP Top 10
+# OWASP Top 10, Pentesting and/or Web Applications
 
    * Differentiate XSS from CSRF.
    * What do you do if a user brings you a pc that is acting 'weird'? You suspect malware.
-   * What is the difference between tcp dump and FWmonitor
+   * What is the difference between tcp dump and FWmonitor?
    * Do you know what XXE is?
-   * Explain man-in-the-middle attacks
+   * Explain man-in-the-middle attacks.
+   * What is a Server Side Request Forgery attack?
+   * Describe what are egghunters and their use in exploit development. 
+   * How is pad lock icon in browser generated?
+   * What is Same Origin Policy and CORS?
 
 # Databases
 
@@ -75,15 +89,21 @@
 
    * Have I played CTF?
    * Would you decrypt a steganography image? 
-         * You're given an ip-based phone and asked me to decrypt the message in the phone.
-             * What CND tools do you knowledge or experience with?
-             * What is the difference between nmap -ss and nmap -st?
-             * How would you filter xyz in Wireshark?
-             * Given a sample packet capture - Identify the protocol, the traffic, and the likelihood of malicious intent.
-             * If left alone in office with access to a computer, how would you exploit it? 
-             * How do you fingerprint an iPhone like Uber did so you can monitor it even after wiping it?
+   * You're given an ip-based phone and asked me to decrypt the message in the phone.
+   * What CND tools do you knowledge or experience with?
+   * What is the difference between nmap -ss and nmap -st?
+   * How would you filter xyz in Wireshark?
+   * Given a sample packet capture - Identify the protocol, the traffic, and the likelihood of malicious intent.
+   * If left alone in office with access to a computer, how would you exploit it? 
+   * How do you fingerprint an iPhone so you can monitor it even after wiping it?
+   * How would you use CI/CD to improve security?
+   * You have a pipeline for Docker images. How would you design everything to ensure the proper security checks?
+   * How would you create a secret storage system?
+   * What technical skill or project are you working on for fun in your free time?
+   * How would you harden your work laptop if you needed it at Defcon?
+   * If you had to set up supply chain attack prevention, how would you do that?
 
-# Programming
+# Programming and Code
 
    * Code review a project and look for the vulnerability.
    * How would you conduct a security code review?
@@ -94,6 +114,9 @@
             * https://arstechnica.com/security/2016/04/hacking-slack-accounts-as-easy-as-searching-github/
         * AWS?
         * Etc.
+   * Given a CVE, walk us through it and how the solution works.
+   * Tell me about a repetitive task at work that you automated away.
+   * How would you analyze a suspicious email link?
 
 # Compliance
     
@@ -103,3 +126,6 @@
    * Can you list examples of controls these frameworks require?
    * What is the difference between Governance, Risk and Compliance?  
    * What does Zero Trust mean?
+   * What is role-based access control (RBAC) and why is it covered by compliance frameworks?
+   * What is the NIST framework and why is it influential?
+   * What is the OSI model?
