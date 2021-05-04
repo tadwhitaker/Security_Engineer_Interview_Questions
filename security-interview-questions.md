@@ -15,7 +15,7 @@
    * If you're going to compress and encrypt a file, which do you do first and why?
    * How do I authenticate you and know you sent the message?
    * Should you encrypt all data at rest?
-   * What is Private Forward Secrecy?
+   * What is Perfect Forward Secrecy?
 
 # Network Level and Logging
    * What are common ports involving security, what are the risks and mitigations?
