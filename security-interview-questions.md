@@ -56,7 +56,7 @@
    * Describe the hardening measures you've put on your home network.
    * What is traceroute? Explain it in details.
    * How does HTTPS work?
-   * What would do if you discovered an infected host?
+   * What would you do if you discovered an infected host?
    * What is SYN/ACK and how does it work?
    * You got the memory dump of a potentially compromised system, how are you going to approach its analysis?
    * How would you detect a DDOS attack? 
