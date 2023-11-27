@@ -6,6 +6,9 @@ I purposefully didn't map the question to a company. That's not the point of thi
 
 Security is difficult to get your arms around, much less your brain. I sorted the questions into logical topic groups, though. I'm also answering the questions periodically at https://medium.com/@theporkskewer.
 
-There's also a blog post about how these questions arose from imposter syndrome: https://theporkskewer.medium.com/beginners-mind-vs-imposter-syndrome-996c6a2d2ffa and a longer blog post titled So You Want To Get Into Cybersecurity (https://medium.com/@theporkskewer/so-you-want-to-get-into-cyber-security-ca6864e71c34) that might be interesting to you also.
+Here are a few additional resources if you found this topic helpful: 
+* [Security_Architect_and_Principal_Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions)
+* [Beginners Mind vs. Imposter Syndrome](https://theporkskewer.medium.com/beginners-mind-vs-imposter-syndrome-996c6a2d2ffa)
+[* So You Want To Get Into Cybersecurity](https://medium.com/@theporkskewer/so-you-want-to-get-into-cyber-security-ca6864e71c34)
 
-If you find value in this list of questions, please consider making a donation to the [HS]2 (https://hs2.crms.org/our-impact/) program at the Colorado Rocky Mountain School. It prepares cohorts of first-generation and/or low-income inner-city students of color to succeed in college by empowering them with STEM-based skills, a family of driven peers, and a space to see the light and power in their own voices in an amazing outdoor environment they ordinarily have no access to. Even $1 helps by demonstrating broad support to larger institutions considering donations.
+Lastly, if you find value in this list of questions, please consider making a donation to the [[HS]2](https://hs2.crms.org/our-impact/) program at the Colorado Rocky Mountain School. It prepares cohorts of first-generation and/or low-income inner-city students of color to succeed in college by empowering them with STEM-based skills, a family of driven peers, and a space to see the light and power in their own voices in an amazing outdoor environment they ordinarily have no access to. Even $1 helps by demonstrating broad support to larger institutions considering donations.
