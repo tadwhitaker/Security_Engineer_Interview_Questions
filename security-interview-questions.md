@@ -4,6 +4,7 @@
    * How do cookies work?
    * How do sessions work?
    * Explain how OAuth works.
+   * Explain how JWT works.
    * What is a public key infrastructure flow and how would I diagram it?
    * Describe the difference between synchronous and asynchronous encryption.
    * Describe SSL handshake.
@@ -52,7 +53,7 @@
    * Difference between IPS and IDS?
    * How do you build a tool to protect the entire Apple infra?
    * How do you harden a system?
-   * How to you elevate permissions?
+   * How do you elevate permissions?
    * Describe the hardening measures you've put on your home network.
    * What is traceroute? Explain it in details.
    * How does HTTPS work?
